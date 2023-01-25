@@ -1,0 +1,18 @@
+{
+  "itemName": "string",
+  "dateOfPurchase": "2023-01-23T14:31:59.152Z",
+  "dateOfExpiry": "2023-01-23T14:31:59.152Z",
+  "shop": {
+    "shopName": "Nathuram",
+    "shopAddress": "CMPDI",
+    "isFavourite": true
+  },
+  "gst": 7,
+  "price": 90,
+  "locationInHouse": "drawer1",
+  "category": "GROCERY",
+  "quantity": {
+    "quantityPurchased": 6,
+    "quantityUnit": "LITER"
+  }
+}
